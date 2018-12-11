@@ -9,6 +9,8 @@ class Fila:
         self.ultimo = None
         self.__tamanho = 0
         self.__iterando = None
+        
+        #fdfsd
 
     def is_empty(self):
         return self.__tamanho == 0
